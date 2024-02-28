@@ -1,0 +1,5 @@
+In this we are learning about linked list
+In linked list we have variable size means the size is not fixed.It has non-contigouous memory
+time complexity for insertion is o(1) and for searching is o(n).
+The basic structure of linked list is having a node with data and next pointer.
+There are three types of linkedlists 1.singly linkedlist 2.doubly linked lists 3.circular linked list
